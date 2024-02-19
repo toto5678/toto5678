@@ -27,3 +27,4 @@ You can click the Preview link to take a look at your changes.https://docs.githu
 --->انسخ المسار
 https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-انسخ المسارsyntaxhttps://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 انسخ المسار
+https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
