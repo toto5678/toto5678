@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: ...انسخ المسار
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ...انسخ المسار
 
 <!---
 toto5678/toto5678 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
